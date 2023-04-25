@@ -38,7 +38,9 @@ fun main(){
 
 }
 
-
+//1 Write and invoke one function that takes in a random string and returns the
+//following values: first character, last character, length of the string and
+//whether it begins with a vowel or not.
 
 
 
